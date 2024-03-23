@@ -1,5 +1,8 @@
 # Eanic
 
+# NOTE: This repository has been moved to my other GitHub account [Firefnix](https://github.com/Firefnix/)!
+## No more updates will be made on this reporitory
+
 Eanic is a cross-platform, pure Dart package to read and write ID3 tags. Its
 name comes from Ean, the music player it has been made for.
 
